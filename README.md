@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Marry Me - Matrimony App
 
 A mobile-first React application for the **NexaVision Frontend Developer Intern Assignment**.
@@ -106,3 +107,6 @@ Or connect your GitHub repo to Netlify/Vercel for automatic deployments.
 > ```
 > /*    /index.html   200
 > ```
+=======
+# marry-me-app
+>>>>>>> ae76f6cc08655a091cb0840d7c2edadc38a99086
